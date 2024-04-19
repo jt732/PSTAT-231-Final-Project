@@ -1,0 +1,15 @@
+"Variable","Description","Type","Units","SummaryStatistics","MissingValues"
+"Median_House_Value","The median value of owner-occupied homes","Numeric","Dollars","Min: 14999 Mean: 206855.816908914 Median: 179700 Max: 500001",0
+"Median_Income","The median income of households within a block","Numeric","Tens of thousands of dollars","Min: 0.4999 Mean: 3.87067100290698 Median: 3.5348 Max: 15.0001",0
+"Median_Age","The median age of houses within a block","Numeric","Years","Min: 1 Mean: 28.6394864341084 Median: 29 Max: 52",0
+"Tot_Rooms","Total number of rooms within a block","Numeric","Rooms","Min: 2 Mean: 2635.76308139535 Median: 2127 Max: 39320",0
+"Tot_Bedrooms","Total number of bedrooms within a block","Numeric","Bedrooms","Min: 1 Mean: 537.898013565892 Median: 435 Max: 6445",0
+"Population","Total number of people residing within a block","Numeric","People","Min: 3 Mean: 1425.47674418604 Median: 1166 Max: 35682",0
+"Households","Total number of households within a block","Numeric","Households","Min: 1 Mean: 499.53968023256 Median: 409 Max: 6082",0
+"Latitude","Geographic latitude of the block","Numeric","Degrees","Min: 32.54 Mean: 35.6318614341085 Median: 34.26 Max: 41.95",0
+"Longitude","Geographic longitude of the block","Numeric","Degrees","Min: -124.35 Mean: -119.569704457364 Median: -118.49 Max: -114.31",0
+"Distance_to_coast","Distance to the nearest coast in meters","Numeric","Meters","Min: 120.676446578151 Mean: 40509.2648832893 Median: 20522.0191008647 Max: 333804.686370542",0
+"Distance_to_LA","Distance to Los Angeles in meters","Numeric","Meters","Min: 420.589108562121 Mean: 269421.981646368 Median: 173667.461747322 Max: 1018260.11926039",0
+"Distance_to_SanDiego","Distance to San Diego in meters","Numeric","Meters","Min: 484.917972757513 Mean: 398164.933494224 Median: 214739.830318269 Max: 1196919.27389799",0
+"Distance_to_SanJose","Distance to San Jose in meters","Numeric","Meters","Min: 569.448118010999 Mean: 349187.55121862 Median: 459758.876999982 Max: 836762.678209894",0
+"Distance_to_SanFrancisco","Distance to San Francisco in meters","Numeric","Meters","Min: 456.141312556066 Mean: 386688.4222911 Median: 526546.661700508 Max: 903627.663298412",0
